@@ -15,4 +15,4 @@ one_h=amount//100
 print("notes of 2000:",two_k)
 print("notes of 500:", five_h)
 print("notes of 200:",two_h)
-print("notes of 100:",one_h+1)
+print("notes of 100 are:",one_h+1)
